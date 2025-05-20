@@ -1,1 +1,2 @@
 print("hh")
+print("ok")
